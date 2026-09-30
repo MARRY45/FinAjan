@@ -1,0 +1,8 @@
+pandas
+numpy
+faker
+streamlit
+plotly
+python-dotenv
+openai
+pytest

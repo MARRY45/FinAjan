@@ -1,0 +1,1 @@
+"""FinAjan test paketi."""
